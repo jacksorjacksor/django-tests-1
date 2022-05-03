@@ -1,5 +1,6 @@
 {
     "explorer.openEditors.sortOrder": "editorOrder",
     "explorer.sortOrder": "default",
-    "vsicons.presets.hideExplorerArrows": true
+    "vsicons.presets.hideExplorerArrows": true,
+    "editor.formatOnType": false
 }
